@@ -1,2 +1,2 @@
 # Spring-Security-oAuth2-samples
-oAuth2 模版
+Spring-Security 样板
